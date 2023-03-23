@@ -10,7 +10,7 @@ DEFAULT_VALUES = {
     "host" : "127.0.0.1",
     "port" : "6666",
     "name" : "foo"
-}
+} 
 
 class BasicGUI:
     """

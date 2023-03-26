@@ -1,4 +1,2 @@
-# Compte rendu TP secure chat
-## Nicolas
-## Meyer
-### 4A GPSE
+# Version corrompu
+# Version actuelle : https://github.com/NicolasMeyer31/tp-pyrochat_student
